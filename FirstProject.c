@@ -70,7 +70,7 @@ int main()
             scanf("%d", &pass);
             if (pass == 3411)
             {
-                printf("LOGIN SUCESSFULL\n");
+                printf("LOGIN SUCCESSFULL\n");
                 y = 0;
             }
             else
